@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+tr,
+td {
+  border: 1px solid black;
+  padding:.5rem 1rem;
+}
+table {
+  border-spacing: 0;
+  margin: 2rem auto;
+ 
+
+}
+
+p {
+  border: 2px solid black;
+  width: 60%;
+  margin: 2rem auto;
+}
+
+.cardContainer {
+  height: 15rem;
+  width: 20rem;
+  border: 1px solid black;
+  margin:1rem auto;
+}
